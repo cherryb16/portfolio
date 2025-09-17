@@ -1,54 +1,40 @@
 ---
-title: "Name of the application I have published for Homework 1"
-date: "2024-09-15"
-categories: [GitHub, Vercel, Claude Code]
+title: "ShadowRock Client Analytics Platform"
+description: "Reusable data pipelines and dashboards that power anonymized client insights plus internal cash-flow visibility"
+date: "2025-01-15"
+categories: [Consulting, Data Analytics, BigQuery]
 ---
 
 ## Overview
 
-This project involved using Claude Code to write the code to needed to deveop an app that ...
+ShadowRock partners with mid-market companies who need better visibility into their marketing, revenue, and operations data. I joined as the analytics builder tasked with creating reusable data infrastructure that kept client identities confidential while giving consultants the answers they needed fast.
 
-The primary purpose of this app is to:
+## Objectives
 
-- ....
-- ....
+- Consolidate Salesforce, HubSpot, Google Ads, and product data into a governed BigQuery environment for client engagements.
+- Ship modular dashboard templates so project teams could tailor insights without rebuilding SQL every time.
+- Provide leadership with a real-time receivables view to manage billing and cash flow across active projects.
 
-## Live Product Demo
+## What I Delivered
 
-<div class="d-flex justify-content-center gap-3 my-4">
-  <!-- Open App button -->
-  <a class="btn btn-primary d-inline-flex align-items-center"
-     href="https://tetris-game-egc6.vercel.app/"
-     target="_blank" rel="noopener"
-     aria-label="Open live app">
-    <i class="fa-solid fa-window-restore me-2" aria-hidden="true"></i>
-    Open App in New Tab
-  </a>
+- **Client analytics workspace** – BigQuery pipelines that ingest and normalize data from six platforms, with semantic layers consultants can query for each anonymous client.
+- **Reusable dashboards** – Component libraries and visualization templates (Looker Studio + Salesforce dashboards) that accelerate weekly executive readouts and ad-hoc analyses.
+- **Data quality framework** – Automated freshness checks, documentation, and alerting so every deliverable hits the same standard regardless of who is on the project.
+- **Receivables cockpit** – Internal dashboard inside Salesforce that highlights overdue invoices, aging schedules, and owner follow-ups.
 
-  <!-- GitHub Source button -->
-  <a class="btn btn-outline-dark d-inline-flex align-items-center"
-     href="https://github.com/your-user/your-repo"
-     target="_blank" rel="noopener"
-     aria-label="Open GitHub source">
-    <i class="fa-brands fa-github me-2" aria-hidden="true"></i>
-    View source on GitHub
-  </a>
-</div>
+## Impact
 
-<iframe src="https://tetris-game-egc6.vercel.app/"
-        style="width:100%; height:900px; border:none;"
-        allowfullscreen>
-</iframe>
+- Consulting teams now assemble engagement dashboards in hours instead of days, keeping client delivery on pace with question volume.
+- ShadowRock leadership monitors outstanding invoices and collections in one place, tightening billing conversations without spreadsheets.
+- The firm reuses one analytics foundation across multiple unnamed clients, protecting confidentiality while scaling insight.
 
-## Technical Details
+## Toolkit
 
-Framework/Stack: [e.g., React, Quarto, HTML/CSS/JS]
+- Google BigQuery, Cloud Functions, dbt-style SQL modeling  
+- Salesforce dashboards & Lightning App Builder  
+- Looker Studio visualization templates  
+- Notion + Loom runbooks for enablement
 
-Deployment: GitHub Pages + Vercel
+## Next Iteration
 
-Tools Used:
--   Claude Code
-
-## Product Requirements Document
-
-Paste in the PRD that you submitted to Claude Code
+I'm layering scenario modeling and sandbox datasets on top of the warehouse so consultants can prototype advanced forecasts before the next client workshop.

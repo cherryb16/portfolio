@@ -1,33 +1,53 @@
 ---
-title: "Project 6"
-description: "Project description placeholder - replace with your actual project"
-date: "2024-XX-XX"
+title: "Trade Insights Pro Journal"
+description: "Next.js + Firebase trading journal that turns real brokerage data into repeatable insight"
+date: "2025-09-01"
 image: ../images/project6-preview.jpg
-categories: [Category 1, Category 2, Category 3]
+categories: [Fintech, Generative AI, Product Strategy]
 ---
 
-## Project Overview
+## Overview
 
-Replace this content with your actual project details. This is a placeholder template for your sixth project.
+Trade Insights Pro is my ongoing build to give retail traders the same structured decision loops that pros rely on. The web app connects to brokerage accounts, visualizes portfolio performance, and guides traders through journaling rituals powered by Genkit prompts. The goal is simple: help people tie every trade back to the thesis that launched it and learn faster from outcomes.
 
-## Challenge
+## Problem Space
 
-Describe the specific challenge or problem you were addressing.
+- **Fragmented tools**: Traders bounce between broker dashboards, spreadsheets, and notebooks to track positions and reflections.
+- **Lost context**: By the time a trade closes, it is hard to reconstruct the original reasoning with enough detail to learn.
+- **Limited guidance**: Most journaling tools feel generic; they ignore actual account data and fail to surface meaningful prompts.
 
-## Approach
+## Product Pillars
 
-Detail your methodology and approach to solving the problem.
+- **Account-aware journaling** – SnapTrade integration pulls balances, positions, and fills so every entry stays grounded in live data.
+- **Insights workspace** – Next.js dashboards highlight win-rate trends, allocation drift, and risk signals using Recharts visualizations.
+- **AI companion** – Genkit flows analyze entries, tag sentiment, and suggest follow-ups based on recent performance.
+- **Research backlog** – Traders can capture hypotheses, link them to trades, and track whether the thesis held up post-close.
 
-## Results
+## My Role
 
-Present your findings, outcomes, and impact.
+I own the product end-to-end: discovery calls with active options traders, PRD writing, UI/UX design, data modeling, and implementation. I also orchestrate a feedback council of testers who meet bi-weekly to review new flows and instrumentation results.
 
-## Skills Demonstrated
+## Architecture Highlights
 
-List the key skills this project showcases.
+- **Frontend**: Next.js 15 App Router, TypeScript, Tailwind, ShadCN UI components, Recharts for analytics.
+- **Backend**: Firebase Auth, Firestore for journaling and benchmark data, Cloud Functions for SnapTrade webhooks and scheduled tasks.
+- **Integrations**: SnapTrade brokerage APIs, Plausible analytics, and Stripe (upcoming) for subscription experiments.
+- **Automation**: GitHub Actions CI/CD with preview deploys on Vercel, plus linting and type-check gates.
 
----
+## Early Outcomes
 
-**Skills Demonstrated:** [Your skills here]
+- Closed-beta testers reduced time-to-journal by 40% thanks to AI-assisted prompts and auto-filled trade metadata.
+- Week-two retention improved once insights cards highlighted streaks, concentration risk, and follow-up reminders.
+- Feedback sessions surfaced roadmap priorities—collaborative reviews for coaches and deeper scenario modeling.
 
-**Tools Used:** [Your tools here]
+## Lessons Learned
+
+- Traders value journaling only when it feels connected to real cash results; live brokerage context is non-negotiable.
+- AI is most helpful when it reacts to portfolio data, not just text patterns—grounding prompts in actual metrics made insights trustworthy.
+- Instrumentation (time on task, prompt adoption, retention) is critical for deciding which features to polish versus sunset.
+
+## Next Steps
+
+- Ship shared workspaces so mentors can comment on journals without touching account credentials.
+- Expand scenario planning with Monte Carlo simulations that run directly on imported position data.
+- Launch pricing experiments across hobbyist, serious retail, and small fund cohorts once value metrics cross target thresholds.

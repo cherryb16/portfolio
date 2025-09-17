@@ -1,143 +1,41 @@
 ---
-title: "Market Entry Strategy Analysis"
-description: "Comprehensive market research and go-to-market strategy for new product launch"
-date: "2024-01-10"
+title: "ASARCO Workforce Analytics"
+description: "Retention dashboards and reporting automation for a multi-site mining operation"
+date: "2025-02-15"
 image: ../images/project3-preview.jpg
-categories: [Strategy, Market Research, Business Development]
+categories: [People Analytics, Automation, Power Platform]
 ---
 
-## Project Overview
+## Overview
 
-Summarize the market entry challenge and your role in developing the strategy. What new market or product category were you analyzing?
+ASARCO operates complex mining facilities where a missed shift can ripple through production. HR leaders asked me to help them get ahead of turnover and skill gaps by building dashboards that combined performance, retention, and training data in one view.
 
-## Executive Summary
+## Goals
 
-Provide a high-level overview of your recommendations and the expected impact. This section should be accessible to both technical and business stakeholders.
+- Reveal early-warning signals for attrition so managers can intervene before talent walks out the door.
+- Replace manual spreadsheets with automated reporting to save time and improve accuracy across plants.
+- Grow data confidence among frontline leaders so insights actually shape staffing and development conversations.
 
-## Market Analysis
+## Solution
 
-### Industry Landscape
-- What is the size and growth rate of the target market?
-- Who are the major players and what market share do they hold?
-- What are the key industry trends and drivers?
+- Partnered with HR, safety, and plant managers to define the metrics that truly signaled risk—including tenure cohorts, certification status, and absenteeism trends.
+- Built Power BI and Tableau dashboards with drill-through views from site-level heatmaps down to individual associates.
+- Automated recurring reports via Microsoft Power Platform, returning 20+ hours per month to HR analysts.
+- Delivered live workshops for 30+ managers and associates, leveling up their ability to explore data and act on what they found.
 
-### Competitive Analysis
-- Who are your direct and indirect competitors?
-- What are their strengths, weaknesses, and market positioning?
-- Where are the gaps and opportunities?
+## Impact
 
-### Customer Analysis
-- Who is your target customer?
-- What are their needs, pain points, and preferences?
-- How do they currently solve the problem you're addressing?
+- Plants saw a 25% reduction in performance gaps and turnover once leaders could spot issues early and coordinate coaching plans.
+- HR shifted from reactive report-building to proactive talent planning, aligning hiring pipelines with actual demand.
+- Managers now arrive at standups with a shared dashboard, shortening status updates and focusing discussion on interventions.
 
-## Strategic Framework
+## Toolkit
 
-### Market Opportunity
-- What specific opportunity did you identify?
-- How large is the addressable market?
-- What factors make this the right time to enter?
+- Microsoft Power BI & Tableau  
+- Power Automate and Power Apps for workflow automation  
+- Excel modeling for scenario planning  
+- SharePoint and Teams for knowledge sharing
 
-### Value Proposition
-- What unique value does your product/service offer?
-- How does it differentiate from existing solutions?
-- Why would customers choose you over alternatives?
+## Lessons Learned
 
-### Go-to-Market Strategy
-- What channels will you use to reach customers?
-- How will you price your offering?
-- What partnerships or alliances are needed?
-
-## Research Methodology
-
-### Data Sources
-- What primary research did you conduct?
-- Which secondary sources did you leverage?
-- How did you ensure data quality and reliability?
-
-### Analysis Techniques
-- What frameworks did you apply (Porter's Five Forces, SWOT, etc.)?
-- Which quantitative and qualitative methods did you use?
-- How did you validate your assumptions?
-
-## Key Findings
-
-### Market Insights
-Present your 3-5 most important discoveries:
-
-1. **Insight #1**: Description and implications
-2. **Insight #2**: Description and implications  
-3. **Insight #3**: Description and implications
-
-### Customer Insights
-- What did you learn about customer behavior and preferences?
-- What unmet needs did you identify?
-- How price-sensitive is the target market?
-
-## Strategic Recommendations
-
-### Market Entry Approach
-- What entry strategy do you recommend (direct, partnership, acquisition)?
-- What should be the geographic focus?
-- What's the optimal timing for launch?
-
-### Product Strategy
-- What features should be prioritized for launch?
-- How should the product be positioned?
-- What pricing strategy will maximize adoption?
-
-### Resource Requirements
-- What investment is needed?
-- What capabilities must be developed?
-- What partnerships are critical for success?
-
-## Implementation Roadmap
-
-### Phase 1: Foundation (Months 1-3)
-- Key activities and milestones
-- Resource requirements
-- Success metrics
-
-### Phase 2: Launch (Months 4-9)
-- Go-to-market execution
-- Customer acquisition strategy
-- Performance monitoring
-
-### Phase 3: Scale (Months 10-18)
-- Expansion opportunities
-- Optimization initiatives
-- Long-term growth strategy
-
-## Risk Assessment
-
-### Key Risks
-- What are the primary threats to success?
-- How likely are these risks to materialize?
-- What would be the potential impact?
-
-### Mitigation Strategies
-- How can each risk be reduced or eliminated?
-- What contingency plans should be developed?
-- What early warning indicators should be monitored?
-
-## Expected Outcomes
-
-### Financial Projections
-- What revenue potential do you forecast?
-- What are the key cost drivers?
-- When do you expect to reach profitability?
-
-### Success Metrics
-- How will you measure progress and success?
-- What leading and lagging indicators will you track?
-- What are the key performance benchmarks?
-
-## Conclusion
-
-Summarize your recommendations and their strategic importance. Emphasize the opportunity size, competitive advantages, and expected returns on investment.
-
----
-
-**Skills Demonstrated:** Market Research, Strategic Analysis, Business Planning, Financial Modeling, Competitive Intelligence, Stakeholder Communication
-
-**Tools Used:** Excel, Tableau, Survey Tools, Industry Databases, Financial Modeling Software
+When insights touch people decisions, adoption is everything. Bringing managers into the build, co-authoring definitions, and teaching the tooling ensured the dashboards became part of ASARCO's management rhythm.

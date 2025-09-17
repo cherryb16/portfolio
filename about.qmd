@@ -4,60 +4,84 @@ title: "About Me"
 
 ::: {.hero-banner .text-center}
 
-<img src="images/profile.jpg" alt="add photo to /images" class="rounded-circle mb-3" width="160">
+<img src="images/profile.jpeg" alt="Headshot of Brayden Cherry" class="rounded-circle mb-3" width="200">
 
-<h1>Your Name</h1>
+<h1>Brayden Cherry</h1>
+<p>Strategic management student and builder who blends analytics, product thinking, and frontline operations.</p>
 
-<a href="https://linkedin.com/in/your-profile" class="btn btn-outline-primary btn-sm" target="_blank">
+<a href="https://linkedin.com/in/braydencherry" class="btn btn-outline-primary btn-sm" target="_blank">
   <i class="fab fa-linkedin"></i> LinkedIn
 </a>
-<a href="https://github.com/your-username" class="btn btn-outline-primary btn-sm" target="_blank">
+<a href="https://github.com/cherryb16" class="btn btn-outline-primary btn-sm" target="_blank">
   <i class="fab fa-github"></i> GitHub
+</a>
+<a href="mailto:braydenmcherry@gmail.com" class="btn btn-outline-primary btn-sm" target="_blank">
+  <i class="fa-solid fa-envelope"></i> Email
 </a>
 
 :::
 
-## Background
+## Why I Build
 
-Write a compelling narrative about your background, education, and what drives your passion for product management. This is your chance to tell your story and connect with potential employers or collaborators.
+My best work happens at the seams between data and human experience. I love sitting with operators, counselors, or sales reps, learning how they actually get work done, and then shaping tools that remove friction. That curiosity has taken me from consulting on revenue intelligence and HR analytics to prototyping community resource navigators and shipping logistics playbooks.
 
-### Education
+## Education
 
-- **Degree Name**, University Name (Year)
-- **Relevant Coursework**: List key courses related to product management, analytics, or business
-- **Academic Achievements**: Honor societies, relevant projects, or awards
+**Brigham Young University — Marriott School of Business**  
+B.S. Strategic Management, Minor in Economics (Apr 2027)  
+- GPA 3.97, ACT 34, Dean's List (Top 5%) Fall '23, Winter '24, Winter '25, Spring '25.  
+- BYU Academic Tuition Scholarship (3x), BYU Economics Scholarship (2x), Career & Leadership Academy Scholar.  
+- Bain Case Competition participant; active in Business Strategy Society & Management Consulting Association.
 
-### Experience
+## Experience
 
-#### Job/Internship Title - Company Name
-*Dates*
+### ShadowRock — Data Analytics Consultant
+*Jan 2025 – Present | Remote*
 
-- Key accomplishment or responsibility
-- Another achievement with quantifiable results
-- Skills or technologies used
+- Built anonymized client datasets in Google BigQuery, blending Salesforce, HubSpot, Google Ads, and product sources into reusable models.
+- Shipped dashboard templates and enablement guides that help consulting teams assemble client readouts without starting from scratch.
+- Designed the firm's receivables dashboard inside Salesforce, giving leadership a live pulse on outstanding invoices and cash flow.
 
-#### Another Position - Company Name
-*Dates*
+### Rags to Robes — Partner Liaison & Product Intern
+*Apr 2025 – Jul 2025 | Provo, UT*
 
-- What you contributed to the organization
-- Projects you worked on
-- Impact you made
+- Shipped a website and chatbot that connects hundreds of Utah County residents with actionable, faith-based support pathways.
+- Led a four-person product pod through discovery, prototyping, and rollout to equip resource partners with a shared playbook.
+- Mapped 30+ community organizations to expose service gaps and inform long-term scaling strategy for the initiative.
 
-### Skills & Interests
+### Storage Scholars — Operations Manager
+*Mar 2024 – Aug 2024 | Tucson, AZ*
 
-**Technical Skills**
-- Programming languages (Python, R, SQL)
-- Analytics tools (Tableau, Power BI, Google Analytics)
-- Product management tools (Jira, Confluence, Figma)
+- Delivered $20K+ in revenue by orchestrating logistics, transportation, and customer service for peak-season storage moves.
+- Hired and managed a six-person crew, ensuring full coverage and playoff-level service across 50+ operations.
+- Boosted operational efficiency 30% by redesigning schedules and standardizing handoffs during semester transitions.
 
-**Soft Skills**
-- Communication and presentation
-- Cross-functional collaboration
-- Strategic thinking and problem-solving
+### ASARCO — HR Data Analytics & Strategy Intern
+*Jun 2024 – Feb 2025 | Tucson, AZ*
 
-**Interests**
-Share what you're passionate about outside of work - this helps humanize your professional brand and can be great conversation starters.
+- Produced retention and workforce dashboards in Tableau and Power BI that helped cut performance gaps and turnover by 25%.
+- Automated recurring reporting, returning 20+ hours per month to HR teams while improving accuracy across plants.
+- Upskilled 30+ managers on Microsoft Power Platform and Excel, strengthening data self-sufficiency on the ground.
 
-### What's Next
+### AZ Staging & Design — Business Strategy Consultant & Operations Associate
+*May 2023 – Aug 2024 | Tucson, AZ*
 
-Describe your career goals and what type of opportunities you're seeking. This helps visitors understand how they might work with you or whether you'd be a good fit for their organization.
+- Created financial clarity by reorganizing QuickBooks, categorizing transactions, and building operator-friendly reporting.
+- Reduced operational costs 20% and stabilized cash flow by streamlining payroll and eliminating non-productive labor hours.
+- Reimagined warehouse layout to increase daily moving capacity and reduce friction for staging crews.
+
+## Leadership & Service
+
+- **Quarterback & Captain, Cienega High School Football** — Led 100-player varsity program, organized offseason film, and guided the team to the state quarterfinals with 2,120 passing yards and 21 TDs.
+- **Volunteer Volleyball Coach, Mica Mountain High School** — Supported varsity staff with practice planning, in-game adjustments, and culture-building for consistent play.
+- **BYU Intramural Official** — Presented officiating improvements that cut penalty complaints by 30% and mentored new referees.
+
+## Skills & Interests
+
+**Technical**: Excel, Power BI, Tableau, SQL, Python, Microsoft Power Platform, Salesforce, QuickBooks, BigQuery, HTML, CSS.  
+**Product & Operations**: Discovery interviews, service design, data storytelling, workforce planning, logistics playbooks.  
+**Outside of Work**: Arizona volleyball state champion (2022), options trader, snowboarder, dedicated home cook, and frequent intramural competitor across football, ultimate, volleyball, softball, soccer, and dodgeball.
+
+## What's Next
+
+I'm partnering with data-forward teams and community organizations that want to turn scattered systems into clear journeys. If that sounds like your world, let's team up.

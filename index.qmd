@@ -4,25 +4,70 @@ title: "Welcome to My Product Management Portfolio"
 
 ::: {.hero-banner .text-center}
 
-<img src="images/profile.jpg" alt="add photo to /images" class="rounded-circle mb-3" width="160">
+<img src="images/profile.jpeg" alt="Headshot of Brayden Cherry" class="rounded-circle mb-3" width="200">
 
-<h1>Your Name</h1>
+<h1>Brayden Cherry</h1>
+<h2>Product strategist turning messy data and frontline workflows into intuitive tools.</h2>
 
-<a href="https://linkedin.com/in/your-profile" class="btn btn-outline-primary btn-sm" target="_blank">
+<p>I build revenue dashboards for boutique consultancies, design digital bridges for social impact partners, and streamline operations for fast-moving teams. Whether the work lives in Salesforce, Firebase, or a warehouse bay, my lane is translating insight into action.</p>
+
+<a href="https://linkedin.com/in/braydencherry" class="btn btn-outline-primary btn-sm" target="_blank">
   <i class="fab fa-linkedin"></i> LinkedIn
 </a>
-<a href="https://github.com/your-username" class="btn btn-outline-primary btn-sm" target="_blank">
+<a href="https://github.com/cherryb16" class="btn btn-outline-primary btn-sm" target="_blank">
   <i class="fab fa-github"></i> GitHub
+</a>
+<a href="mailto:braydenmcherry@gmail.com" class="btn btn-outline-primary btn-sm" target="_blank">
+  <i class="fa-solid fa-envelope"></i> Email
 </a>
 
 :::
 
-## Featured Projects
+## What I'm Focused On
 
-::: {.g-col-12 .g-col-md-6 .card}
+- Delivering cross-platform analytics packages for ShadowRock's client engagements while maintaining confidentiality.
+- Piloting a <strong>resource navigator for Rags to Robes</strong> that helps community leaders connect families with faith-based services.
+- Building <strong>Trade Insights Pro</strong>, a Next.js + Firebase trading journal that keeps retail traders grounded in real account data.
 
-### [Name of my first app](projects/project-1.qmd)
-A one sentence description of my first application which is deployed to vercel. 
+## Featured Case Studies
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-4 .card}
+
+### [ShadowRock Client Analytics Platform](projects/project-1.qmd)
+Reusable data pipelines and dashboards that power anonymized client insights plus internal cash-flow visibility.
 
 :::
 
+::: {.g-col-12 .g-col-md-4 .card}
+
+### [Rags to Robes Pathways Platform](projects/project-2.qmd)
+A no-code/low-code experience helping poverty initiatives match households with actionable support.
+
+:::
+
+::: {.g-col-12 .g-col-md-4 .card}
+
+### [Trade Insights Pro Journal](projects/project-6.qmd)
+A closed-beta trading journal that blends brokerage data, AI prompts, and research rituals for retail investors.
+
+:::
+
+:::
+
+## Recent Highlights
+
+- Built the ShadowRock receivables cockpit and reusable analytics templates so consultants can keep clients informed fast.
+- Organized a 4-person product pod for Rags to Robes, aligning hundreds of community resources to the people who need them.
+- Led peak-season logistics at Storage Scholars, shipping 50+ moves on time while boosting efficiency by 30%.
+
+## How I Work
+
+- **Obsess over clarity**: I start with the decision to be made, then craft the dashboards, workflows, or UX needed to make it obvious.
+- **Prototype in the open**: Stakeholders see progress early—whether it's a FigJam map, Firebase build, or ops playbook.
+- **Ground strategy in operations**: Field time with users, associates, and managers shapes every roadmap and metric.
+
+## Let's Connect
+
+If you're wrestling with disconnected systems, unclear metrics, or a service experience that needs a rethink, I'd love to compare notes.
