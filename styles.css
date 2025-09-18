@@ -245,3 +245,248 @@ img {
   margin: 0 auto 2rem;
   display: block;
 }
+
+/* Enhanced Project Showcase Styling */
+.projects-showcase {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 2rem;
+  margin: 2rem 0;
+}
+
+.project-card {
+  background: #ffffff;
+  border-radius: 12px;
+  padding: 2rem;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  border: 1px solid #e9ecef;
+  transition: all 0.3s ease;
+  position: relative;
+  overflow: hidden;
+}
+
+.project-card::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 4px;
+  background: linear-gradient(45deg, #007bff, #0056b3);
+}
+
+.project-card.fintech-card::before {
+  background: linear-gradient(45deg, #28a745, #20c997);
+}
+
+.project-card.operations-card::before {
+  background: linear-gradient(45deg, #fd7e14, #ffc107);
+}
+
+.project-card.analytics-card::before {
+  background: linear-gradient(45deg, #6f42c1, #e83e8c);
+}
+
+.project-card:hover {
+  transform: translateY(-8px);
+  box-shadow: 0 12px 24px rgba(0, 0, 0, 0.15);
+}
+
+.project-icon {
+  font-size: 3rem;
+  margin-bottom: 1.5rem;
+  display: flex;
+  justify-content: center;
+}
+
+.fintech-card .project-icon {
+  color: #28a745;
+}
+
+.operations-card .project-icon {
+  color: #fd7e14;
+}
+
+.analytics-card .project-icon {
+  color: #6f42c1;
+}
+
+.project-content h3 {
+  margin-top: 0;
+  margin-bottom: 1rem;
+  font-size: 1.25rem;
+  font-weight: 600;
+}
+
+.project-content h3 a {
+  text-decoration: none;
+  color: #2c3e50;
+  transition: color 0.2s ease;
+}
+
+.project-content h3 a:hover {
+  color: #007bff;
+  text-decoration: none;
+}
+
+.project-content p {
+  margin-bottom: 1.5rem;
+  color: #6c757d;
+  line-height: 1.6;
+}
+
+.project-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin-top: 1rem;
+}
+
+.tag {
+  background: #f8f9fa;
+  color: #495057;
+  padding: 0.25rem 0.75rem;
+  border-radius: 20px;
+  font-size: 0.875rem;
+  font-weight: 500;
+  border: 1px solid #dee2e6;
+  transition: all 0.2s ease;
+}
+
+.fintech-card .tag {
+  background: #d4edda;
+  color: #155724;
+  border-color: #c3e6cb;
+}
+
+.operations-card .tag {
+  background: #fff3cd;
+  color: #856404;
+  border-color: #ffeaa7;
+}
+
+.analytics-card .tag {
+  background: #e2d9f3;
+  color: #4a154b;
+  border-color: #d1b3e8;
+}
+
+.tag:hover {
+  transform: translateY(-1px);
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+/* Hide anchor links on project cards */
+.project-content .header-section-number,
+.project-content .anchor-link,
+.project-content h3 .quarto-anchor-link,
+.project-content h3 .anchor,
+.project-card .quarto-anchor-link,
+.project-card .anchor-link,
+.project-card a.anchor-link,
+.project-card .fa-link,
+.projects-showcase .quarto-anchor-link,
+.projects-showcase .anchor-link,
+h3 .quarto-anchor-link,
+h3 .anchor-link,
+.quarto-anchor-link,
+.anchor-link {
+  display: none !important;
+  visibility: hidden !important;
+}
+
+/* Hide anchor links on hover */
+.project-content h3:hover .quarto-anchor-link,
+.project-content h3:hover .anchor-link,
+.project-card h3:hover .quarto-anchor-link,
+.project-card h3:hover .anchor-link,
+.projects-showcase h3:hover .quarto-anchor-link,
+.projects-showcase h3:hover .anchor-link,
+h3:hover .quarto-anchor-link,
+h3:hover .anchor-link {
+  display: none !important;
+  visibility: hidden !important;
+  opacity: 0 !important;
+}
+
+/* More aggressive anchor link hiding - catch all possible names */
+h3 a[href^="#"],
+.project-content h3 a[href^="#"],
+.project-card h3 a[href^="#"],
+.projects-showcase h3 a[href^="#"],
+h3 .fas.fa-link,
+h3 .fa.fa-link,
+h3 i[class*="link"],
+h3 a[aria-label],
+h3 a:not([href*="projects/"]) {
+  display: none !important;
+  visibility: hidden !important;
+  opacity: 0 !important;
+}
+
+h3:hover a[href^="#"],
+.project-content h3:hover a[href^="#"],
+.project-card h3:hover a[href^="#"],
+.projects-showcase h3:hover a[href^="#"],
+h3:hover .fas.fa-link,
+h3:hover .fa.fa-link,
+h3:hover i[class*="link"],
+h3:hover a[aria-label],
+h3:hover a:not([href*="projects/"]) {
+  display: none !important;
+  visibility: hidden !important;
+  opacity: 0 !important;
+}
+
+/* Hide ALL anchor links after headings globally */
+h1 a[href^="#"],
+h2 a[href^="#"],
+h3 a[href^="#"],
+h4 a[href^="#"],
+h5 a[href^="#"],
+h6 a[href^="#"],
+h1:hover a[href^="#"],
+h2:hover a[href^="#"],
+h3:hover a[href^="#"],
+h4:hover a[href^="#"],
+h5:hover a[href^="#"],
+h6:hover a[href^="#"],
+.quarto-anchor-link,
+.anchor-link,
+a.anchor-link,
+.header-section-number {
+  display: none !important;
+  visibility: hidden !important;
+  opacity: 0 !important;
+  pointer-events: none !important;
+}
+
+/* Keep sidebar/TOC links visible */
+.sidebar .quarto-anchor-link,
+.sidebar .anchor-link,
+.toc .quarto-anchor-link,
+.toc .anchor-link,
+nav .quarto-anchor-link,
+nav .anchor-link {
+  display: initial !important;
+  visibility: visible !important;
+  opacity: 1 !important;
+  pointer-events: auto !important;
+}
+
+/* Responsive adjustments for project cards */
+@media (max-width: 992px) {
+  .projects-showcase {
+    grid-template-columns: 1fr;
+    gap: 1.5rem;
+  }
+
+  .project-card {
+    padding: 1.5rem;
+  }
+
+  .project-icon {
+    font-size: 2.5rem;
+    margin-bottom: 1rem;
+  }
+}

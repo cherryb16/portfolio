@@ -27,60 +27,62 @@ My best work happens at the seams between data and human experience. I love sitt
 
 ## Education
 
-**Brigham Young University — Marriott School of Business**  
-B.S. Strategic Management, Minor in Economics (Apr 2027)  
-- GPA 3.97, ACT 34, Dean's List (Top 5%) Fall '23, Winter '24, Winter '25, Spring '25.  
-- BYU Academic Tuition Scholarship (3x), BYU Economics Scholarship (2x), Career & Leadership Academy Scholar.  
-- Bain Case Competition participant; active in Business Strategy Society & Management Consulting Association.
+**Brigham Young University — Marriott School of Business**
+
+- B.S. Strategic Management, Minor in Economics (Apr 2027)
+- GPA 3.97/4.00, ACT 34/36, Dean's List (Top 5%) Fall '23, Winter '24, Winter '25, Spring '25
+- 3x BYU Academic Scholarship, 2x BYU Economics Scholarship, Career & Leadership Academy Scholar
+- Case competition participant: Bain (2024), Weave (2024), BYU Marriott (2025)
+- Active member: Business Strategy Society, Management Consulting Association, Corporate Strategy Association
 
 ## Experience
 
 ### ShadowRock — Data Analytics Consultant
 *Jan 2025 – Present | Remote*
 
-- Built anonymized client datasets in Google BigQuery, blending Salesforce, HubSpot, Google Ads, and product sources into reusable models.
-- Shipped dashboard templates and enablement guides that help consulting teams assemble client readouts without starting from scratch.
-- Designed the firm's receivables dashboard inside Salesforce, giving leadership a live pulse on outstanding invoices and cash flow.
+- Built anonymized client datasets in Google BigQuery, blending Salesforce, HubSpot, Google Ads, and product sources into reusable models
+- Shipped dashboard templates and enablement guides that help consulting teams assemble client readouts without starting from scratch
+- Designed the firm's receivables dashboard inside Salesforce, giving leadership a live pulse on outstanding invoices and cash flow
 
 ### Rags to Robes — Partner Liaison & Product Intern
 *Apr 2025 – Jul 2025 | Provo, UT*
 
-- Shipped a website and chatbot that connects hundreds of Utah County residents with actionable, faith-based support pathways.
-- Led a four-person product pod through discovery, prototyping, and rollout to equip resource partners with a shared playbook.
-- Mapped 30+ community organizations to expose service gaps and inform long-term scaling strategy for the initiative.
+- Shipped a website and chatbot that connects hundreds of Utah County residents with actionable, faith-based support pathways
+- Led a four-person product pod through discovery, prototyping, and rollout to equip resource partners with a shared playbook
+- Mapped 30+ community organizations to expose service gaps and inform long-term scaling strategy for the initiative
 
 ### Storage Scholars — Operations Manager
 *Mar 2024 – Aug 2024 | Tucson, AZ*
 
-- Delivered $20K+ in revenue by orchestrating logistics, transportation, and customer service for peak-season storage moves.
-- Hired and managed a six-person crew, ensuring full coverage and playoff-level service across 50+ operations.
-- Boosted operational efficiency 30% by redesigning schedules and standardizing handoffs during semester transitions.
+- Delivered $20K+ in revenue by orchestrating logistics, transportation, and customer service for peak-season storage moves
+- Hired and managed a six-person crew, ensuring full coverage and playoff-level service across 50+ operations
+- Boosted operational efficiency 30% by redesigning schedules and standardizing handoffs during semester transitions
 
 ### ASARCO — HR Data Analytics & Strategy Intern
 *Jun 2024 – Feb 2025 | Tucson, AZ*
 
-- Produced retention and workforce dashboards in Tableau and Power BI that helped cut performance gaps and turnover by 25%.
-- Automated recurring reporting, returning 20+ hours per month to HR teams while improving accuracy across plants.
-- Upskilled 30+ managers on Microsoft Power Platform and Excel, strengthening data self-sufficiency on the ground.
+- Produced retention and workforce dashboards in Tableau and Power BI that helped cut performance gaps and turnover by 25%
+- Automated recurring reporting, returning 20+ hours per month to HR teams while improving accuracy across plants
+- Upskilled 30+ managers on Microsoft Power Platform and Excel, strengthening data self-sufficiency on the ground
 
 ### AZ Staging & Design — Business Strategy Consultant & Operations Associate
 *May 2023 – Aug 2024 | Tucson, AZ*
 
-- Created financial clarity by reorganizing QuickBooks, categorizing transactions, and building operator-friendly reporting.
-- Reduced operational costs 20% and stabilized cash flow by streamlining payroll and eliminating non-productive labor hours.
-- Reimagined warehouse layout to increase daily moving capacity and reduce friction for staging crews.
+- Created financial clarity by reorganizing QuickBooks, categorizing transactions, and building operator-friendly reporting
+- Reduced operational costs 20% and stabilized cash flow by streamlining payroll and eliminating non-productive labor hours
+- Reimagined warehouse layout to increase daily moving capacity and reduce friction for staging crews
 
 ## Leadership & Service
 
-- **Quarterback & Captain, Cienega High School Football** — Led 100-player varsity program, organized offseason film, and guided the team to the state quarterfinals with 2,120 passing yards and 21 TDs.
-- **Volunteer Volleyball Coach, Mica Mountain High School** — Supported varsity staff with practice planning, in-game adjustments, and culture-building for consistent play.
-- **BYU Intramural Official** — Presented officiating improvements that cut penalty complaints by 30% and mentored new referees.
+- **Quarterback & Captain, Cienega High School Football** — Led 100-player varsity program, organized offseason film, and guided the team to the state quarterfinals with 2,120 passing yards and 21 TDs
+- **Volunteer Volleyball Coach, Mica Mountain High School** — Supported varsity staff with practice planning, in-game adjustments, and culture-building for consistent play
+- **BYU Intramural Official** — Presented officiating improvements that cut penalty complaints by 30% and mentored new referees
 
 ## Skills & Interests
 
-**Technical**: Excel, Power BI, Tableau, SQL, Python, Microsoft Power Platform, Salesforce, QuickBooks, BigQuery, HTML, CSS.  
-**Product & Operations**: Discovery interviews, service design, data storytelling, workforce planning, logistics playbooks.  
-**Outside of Work**: Arizona volleyball state champion (2022), options trader, snowboarder, dedicated home cook, and frequent intramural competitor across football, ultimate, volleyball, softball, soccer, and dodgeball.
+- **Technical**: Power BI, Tableau, SQL, Python, Microsoft Power Platform, BigQuery, Next.js, Firebase
+- **Product & Operations**: Discovery interviews, service design, data storytelling, workforce planning, logistics playbooks, dashboard development
+- **Outside of Work**: Arizona volleyball state champion (2022), All-State Quarterback watchlist (2023), options trader, snowboarder, dedicated home cook, and BYU Intramural fanatic (6x runner-up)
 
 ## What's Next
 

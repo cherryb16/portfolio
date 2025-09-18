@@ -25,48 +25,79 @@ title: "Welcome to My Product Management Portfolio"
 
 ## What I'm Focused On
 
-- Delivering cross-platform analytics packages for ShadowRock's client engagements while maintaining confidentiality.
-- Piloting a <strong>resource navigator for Rags to Robes</strong> that helps community leaders connect families with faith-based services.
-- Building <strong>Trade Insights Pro</strong>, a Next.js + Firebase trading journal that keeps retail traders grounded in real account data.
+- Delivering cross-platform analytics packages for ShadowRock's client engagements while maintaining confidentiality
+- Piloting a resource navigator for a social impact project at the BYU Ballard Center that helps community leaders connect families with faith-based services
+- Building Trade Insights Pro, a Next.js + Firebase trading journal that keeps retail traders grounded in real account data
 
 ## Featured Case Studies
 
-::: {.grid}
+::: {.projects-showcase}
 
-::: {.g-col-12 .g-col-md-4 .card}
-
-### [ShadowRock Client Analytics Platform](projects/project-1.qmd)
-Reusable data pipelines and dashboards that power anonymized client insights plus internal cash-flow visibility.
-
+::: {.project-card .fintech-card}
+::: {.project-icon}
+<i class="fas fa-chart-line"></i>
 :::
-
-::: {.g-col-12 .g-col-md-4 .card}
-
-### [Rags to Robes Pathways Platform](projects/project-2.qmd)
-A no-code/low-code experience helping poverty initiatives match households with actionable support.
-
-:::
-
-::: {.g-col-12 .g-col-md-4 .card}
-
+::: {.project-content}
 ### [Trade Insights Pro Journal](projects/project-6.qmd)
-A closed-beta trading journal that blends brokerage data, AI prompts, and research rituals for retail investors.
+A closed-beta trading journal that blends brokerage data, AI prompts, and research rituals for retail investors
 
+::: {.project-tags}
+<span class="tag">Next.js</span>
+<span class="tag">Firebase</span>
+<span class="tag">SnapTrade API</span>
+:::
+:::
+:::
+
+::: {.project-card .operations-card}
+::: {.project-icon}
+<i class="fas fa-users"></i>
+:::
+::: {.project-content}
+### [Storage Scholars Operations Management](projects/project-4.qmd)
+Scaling peak-season college storage operations with $20K+ revenue and 30% efficiency gains
+
+::: {.project-tags}
+<span class="tag">Team Leadership</span>
+<span class="tag">Revenue Growth</span>
+<span class="tag">Process Optimization</span>
+:::
+:::
+:::
+
+::: {.project-card .analytics-card}
+::: {.project-icon}
+<i class="fas fa-database"></i>
+:::
+::: {.project-content}
+### [ShadowRock Client Analytics Platform](projects/project-1.qmd)
+Reusable data pipelines and dashboards that power anonymized client insights plus internal cash-flow visibility
+
+::: {.project-tags}
+<span class="tag">BigQuery</span>
+<span class="tag">Salesforce</span>
+<span class="tag">SQL</span>
+:::
+:::
 :::
 
 :::
 
 ## Recent Highlights
 
-- Built the ShadowRock receivables cockpit and reusable analytics templates so consultants can keep clients informed fast.
-- Organized a 4-person product pod for Rags to Robes, aligning hundreds of community resources to the people who need them.
-- Led peak-season logistics at Storage Scholars, shipping 50+ moves on time while boosting efficiency by 30%.
+- **Fintech Innovation**: Developing Trade Insights Pro with SnapTrade integration, helping closed-beta traders reduce journaling time by 40% through AI-assisted prompts and live account data
+- **Operations Excellence**: Led $20K+ revenue generation at Storage Scholars managing 6-person team across 50+ storage operations with 30% efficiency improvements
+- **Data Analytics Impact**: Built SQL-based integration of six platforms at ShadowRock, improving data visibility by 50% and reducing overdue receivables by 25%
 
 ## How I Work
 
-- **Obsess over clarity**: I start with the decision to be made, then craft the dashboards, workflows, or UX needed to make it obvious.
-- **Prototype in the open**: Stakeholders see progress early—whether it's a FigJam map, Firebase build, or ops playbook.
-- **Ground strategy in operations**: Field time with users, associates, and managers shapes every roadmap and metric.
+- **Obsess over clarity**: I start with the decision to be made, then craft the dashboards, workflows, or UX needed to make it obvious
+- **Prototype in the open**: Stakeholders see progress early—whether it's a FigJam map, Firebase build, or ops playbook
+- **Ground strategy in operations**: Field time with users, associates, and managers shapes every roadmap and metric
+
+## Experience & Background
+
+For a detailed view of my professional experience, education, and achievements, check out my [complete background and experience](about.qmd).
 
 ## Let's Connect
 

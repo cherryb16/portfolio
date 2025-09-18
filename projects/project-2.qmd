@@ -1,44 +1,53 @@
 ---
-title: "Rags to Robes Pathways Platform"
-description: "Connecting families in poverty with faith-based support through a guided digital experience"
+title: "Rags to Robes Community Resource Website"
+description: "A multi-page website connecting Utah County families with community resources and support"
 date: "2025-07-01"
 image: ../images/project2-preview.jpg
-categories: [Product Design, No-Code, Social Impact]
+categories: [Web Development, Product Design, Social Impact]
 ---
 
 ## Overview
 
-Rags to Robes is a Ballard Center initiative dedicated to helping Utah County residents break cycles of poverty. The director team needed a simple way to match individuals with local churches, nonprofits, and coaches ready to help. I joined as a partner liaison and product intern to design the first digital bridge.
+Rags to Robes is a Ballard Center initiative dedicated to helping Utah County residents break cycles of poverty. The director team needed a digital platform to connect individuals with local churches, nonprofits, and coaches. I joined as a partner liaison and product intern to build their first website.
 
 ## Challenge
 
-- Community leaders juggled spreadsheets, texts, and email to track who needed what support.
-- Families struggled to understand which services were actionable and culturally aligned.
-- The initiative wanted to scale beyond pilot wards without overwhelming volunteers.
+- Community leaders juggled spreadsheets, texts, and email to track who needed what support
+- Families struggled to understand which services were actionable and culturally aligned
+- The initiative wanted to scale beyond pilot wards without overwhelming volunteers
 
 ## Product Approach
 
-- Conducted discovery interviews with church leaders, social workers, and families to understand the decision points in seeking aid.
-- Designed a lightweight website and guided chatbot (no-code + custom scripts) that surfaces curated next steps based on a few key questions.
-- Built a resource map of 30+ organizations, tagging each with services, eligibility, and response time to expose gaps and overlaps.
-- Facilitated weekly design sprints with a four-person pod to iterate on flows, language, and volunteer onboarding.
+- **User Research**: Conducted discovery interviews with church leaders, social workers, and families to understand the decision points in seeking aid
+- **Website Development**: Built a multi-page website with HTML, CSS, and JavaScript using Tailwind CSS for styling
+- **Resource Organization**: Created structured pages for community events, leadership training, and emergency resources
+- **Team Leadership**: Facilitated weekly design sprints with a four-person pod to iterate on flows, language, and volunteer onboarding
+- **Resource Mapping**: Mapped 30+ local organizations to expose service gaps and inform strategy
+
+## What I Built
+
+- **Homepage**: Main landing page with navigation and overview
+- **Community Calendar**: Page for tracking community events and activities
+- **Leadership Training**: Resource page for training materials and programs
+- **Emergency Resources**: Comprehensive resource directory with tooltips and contact information
+- **Basic Interactivity**: JavaScript for UI enhancements and page functionality
 
 ## Results
 
-- Hundreds of residents now access a single entry point that routes them to housing, employment, and counseling support tailored to their situation.
-- Partner organizations gained visibility into where families stall, allowing targeted follow-up and shared accountability.
-- The Ballard Center team now has a documented playbook to replicate the model in neighboring communities.
+- Created a centralized digital presence for the Rags to Robes initiative
+- Partner organizations gained visibility into available resources and support pathways
+- The Ballard Center team had a foundation to build upon for future development
 
 ## My Role
 
-I owned user research, service blueprinting, and the initial build. I also coached stakeholders on maintaining the content library and measuring engagement through no-code analytics.
+I owned user research, basic web development, and stakeholder coordination. While the implementation was relatively simple, it provided valuable experience in building for social impact and working with community organizations.
 
-## Stack & Tools
+## Technical Implementation
 
-- Softr + Airtable for website scaffolding
-- Custom prompt flows for the chatbot experience
-- Miro, FigJam, and Notion for maps and documentation
-- Zapier automations feeding partner notifications
+- **Frontend**: HTML, CSS, JavaScript with Tailwind CSS framework
+- **Structure**: Multi-page website with navigation and resource organization
+- **Styling**: Responsive design with hover effects and basic animations
+- **Tools**: VS Code, Git for version control, and basic web hosting
 
 ## What’s Next
 

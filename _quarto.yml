@@ -17,7 +17,11 @@ website:
           - href: projects/project-1.qmd
             text: ShadowRock Client Analytics Platform
           - href: projects/project-2.qmd
-            text: Rags to Robes Pathways Platform
+            text: Rags to Robes Community Resource Website
+          - href: projects/project-3.qmd
+            text: ASARCO Workforce Analytics
+          - href: projects/project-4.qmd
+            text: Storage Scholars Operations Management
           - href: projects/project-6.qmd
             text: Trade Insights Pro Journal
 

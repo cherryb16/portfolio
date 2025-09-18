@@ -12,22 +12,22 @@ ASARCO operates complex mining facilities where a missed shift can ripple throug
 
 ## Goals
 
-- Reveal early-warning signals for attrition so managers can intervene before talent walks out the door.
-- Replace manual spreadsheets with automated reporting to save time and improve accuracy across plants.
-- Grow data confidence among frontline leaders so insights actually shape staffing and development conversations.
+- Reveal early-warning signals for attrition so managers can intervene before talent walks out the door
+- Replace manual spreadsheets with automated reporting to save time and improve accuracy across plants
+- Grow data confidence among frontline leaders so insights actually shape staffing and development conversations
 
 ## Solution
 
-- Partnered with HR, safety, and plant managers to define the metrics that truly signaled risk—including tenure cohorts, certification status, and absenteeism trends.
-- Built Power BI and Tableau dashboards with drill-through views from site-level heatmaps down to individual associates.
-- Automated recurring reports via Microsoft Power Platform, returning 20+ hours per month to HR analysts.
-- Delivered live workshops for 30+ managers and associates, leveling up their ability to explore data and act on what they found.
+- Partnered with HR, safety, and plant managers to define the metrics that truly signaled risk—including tenure cohorts, certification status, and absenteeism trends
+- Built Power BI and Tableau dashboards with drill-through views from site-level heatmaps down to individual associates
+- Automated recurring reports via Microsoft Power Platform, returning 20+ hours per month to HR analysts
+- Delivered live workshops for 30+ managers and associates, leveling up their ability to explore data and act on what they found
 
 ## Impact
 
-- Plants saw a 25% reduction in performance gaps and turnover once leaders could spot issues early and coordinate coaching plans.
-- HR shifted from reactive report-building to proactive talent planning, aligning hiring pipelines with actual demand.
-- Managers now arrive at standups with a shared dashboard, shortening status updates and focusing discussion on interventions.
+- Plants saw a 25% reduction in performance gaps and turnover once leaders could spot issues early and coordinate coaching plans
+- HR shifted from reactive report-building to proactive talent planning, aligning hiring pipelines with actual demand
+- Managers now arrive at standups with a shared dashboard, shortening status updates and focusing discussion on interventions
 
 ## Toolkit
 

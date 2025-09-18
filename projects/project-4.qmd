@@ -1,33 +1,52 @@
 ---
-title: "Project 4"
-description: "Project description placeholder - replace with your actual project"
-date: "2024-XX-XX"
+title: "Storage Scholars Operations Management"
+description: "Scaling peak-season college storage operations with $20K+ revenue and 30% efficiency gains"
+date: "2024-08-01"
 image: ../images/project4-preview.jpg
-categories: [Category 1, Category 2, Category 3]
+categories: [Operations Management, Team Leadership, Process Optimization]
 ---
 
-## Project Overview
+## Overview
 
-Replace this content with your actual project details. This is a placeholder template for your fourth project.
+Storage Scholars is a Shark Tank company backed by Mark Cuban that provides college student storage solutions during semester transitions. As Operations Manager in Tucson, I led the complete operational lifecycle for 50+ storage moves while managing a 6-person team during the high-pressure peak season.
 
 ## Challenge
 
-Describe the specific challenge or problem you were addressing.
+- **Peak-season demand**: Coordinate 50+ storage operations within a compressed 2-week semester transition window
+- **Workforce management**: Hire, train, and lead a 6-person crew to ensure full coverage and consistent service quality
+- **Customer experience**: Maintain high service standards while managing logistics, scheduling, and transportation simultaneously
+- **Revenue pressure**: Drive significant revenue growth while optimizing operational costs and efficiency
 
-## Approach
+## Solution & Approach
 
-Detail your methodology and approach to solving the problem.
+- **Strategic workforce planning**: Recruited and onboarded a 6-person operations team, implementing training protocols and performance standards
+- **Optimized scheduling system**: Redesigned timing and logistics coordination for 30+ customers during peak transitions, reducing bottlenecks
+- **Comprehensive service management**: Orchestrated end-to-end logistics including transportation, customer service, and storage coordination
+- **Process standardization**: Developed repeatable workflows and quality checkpoints to ensure consistent execution across all operations
 
-## Results
+## Impact & Results
 
-Present your findings, outcomes, and impact.
+- **Revenue generation**: Drove $20K+ in revenue through successful operation management and customer satisfaction
+- **Operational efficiency**: Improved operations efficiency by 30% through optimized timing and standardized processes
+- **Team leadership**: Successfully led 6 workers with full coverage and on-time completion across 50+ storage operations
+- **Customer satisfaction**: Maintained high service quality during high-pressure semester transitions, supporting company reputation
+
+## Key Learnings
+
+- **Scalable systems matter**: Building repeatable processes was essential for maintaining quality at volume
+- **Team empowerment drives results**: Clear training and accountability structures enabled the crew to execute independently
+- **Customer communication is critical**: Proactive updates during stressful moving periods differentiated our service experience
 
 ## Skills Demonstrated
 
-List the key skills this project showcases.
+**Leadership**: Team building, performance management, training development, conflict resolution
+**Operations**: Logistics coordination, process optimization, quality control, resource planning
+**Business**: Revenue management, customer service, cost optimization, performance metrics
 
----
+## Toolkit
 
-**Skills Demonstrated:** [Your skills here]
-
-**Tools Used:** [Your tools here]
+- Project management and scheduling systems
+- Transportation coordination and logistics
+- Customer relationship management
+- Performance tracking and analytics
+- Team communication and training protocols
