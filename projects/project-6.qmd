@@ -5,6 +5,7 @@ date: "2025-09-01"
 image: ../images/project6-preview.jpg
 categories: [Fintech, Generative AI, Product Strategy]
 ---
+![Trade Insights Pro Dashboard Screenshot](../images/trade-insights-screenshot.png){.img-fluid .rounded .shadow-sm .mt-3 .mb-4}
 
 ::: {.project-links .text-center .mb-4}
 <a href="https://stocked-up--trade-insights-pro-su.us-central1.hosted.app/dashboard" class="btn btn-primary btn-sm" target="_blank">
